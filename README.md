@@ -1,0 +1,1 @@
+# MuseTalk Weights\nModel weights for MAI.SI lip-sync pipeline.\nLarge files split into 800MB Chunks for GitHub Releases (GF limit).\nReassemble on pod: cat part-* > file
